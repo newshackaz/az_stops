@@ -8,7 +8,7 @@ This tutorial uses Python 3.6.4 and the Pandas library to analyze the traffic st
 
 ## Getting the data
 
-We have included the entire 2.25 million traffic stops on the USB drive provided to you at the beginning of the class. If you do not have a USB drive, the data can be downloaded [here](https://stacks.stanford.edu/file/druid:py883nd2578/AZ-clean.csv.gz). Unfortunately the dataset is probably too large to fit on your virtual machine. The good news is we already have taught you the tools to separate out a subset of the data based on the latest year available. Make sure to check your line count afterwords to make sure you got everything.
+We have included the entire 2.25 million traffic stops on the USB drive provided to you at the beginning of the class. If you do not have a USB drive, the data can be downloaded [here](https://stacks.stanford.edu/file/druid:py883nd2578/AZ-clean.csv.gz). Unfortunately the dataset is probably too large to fit on your virtual machine. The good news is we already have taught you the tools to separate out a subset of the data based on the latest year available. Make sure to check your line count afterwords to confirm you got all the 2015 traffic stops.
 
 ```bash
 $ cat /media/<USB DRIVE NAME>/data/AZ-clean.csv | grep 'AZ-2015' | wc -l
