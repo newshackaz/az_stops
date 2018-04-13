@@ -1,6 +1,6 @@
 # Analyzing Arizona's traffic stops
 
-The (Stanford Open Policing Project](https://openpolicing.stanford.edu/) has collected data on more than 130 million traffic stops conducted by state law enforcement agencies in 31 states. Included in the data are more than 2.25 million traffic stops conducted by the Arizona Highway Patrol between 2009 and 2015. This tutorial will walk you through an analysis meant to check for racial bias by looking at search rates in the data.
+The [Stanford Open Policing Project](https://openpolicing.stanford.edu/) has collected data on more than 130 million traffic stops conducted by state law enforcement agencies in 31 states. Included in the data are more than 2.25 million traffic stops conducted by the Arizona Highway Patrol between 2009 and 2015. This tutorial will walk you through an analysis meant to check for racial bias by looking at search rates in the data.
 
 ## Before we start
 
